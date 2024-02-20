@@ -1,3 +1,5 @@
+![Alt text](https://github.com/dazmashaly/Heart-Rate-Monitor/blob/main/test_frame.jpg)
+
 
 # Methods 
 - Detect face, align and get ROI using facial landmarks
