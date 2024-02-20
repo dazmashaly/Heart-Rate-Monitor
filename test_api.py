@@ -34,7 +34,7 @@ rates = [0]
 while True:
     # Capture frame-by-frame
     
-    frame = cv2.imread("test_frame.jpg")
+    frame = cap.read()[1]
     to_send = cv2.resize(frame, (960, 720))
     print(frame.shape)
     # Display the resulting frame
